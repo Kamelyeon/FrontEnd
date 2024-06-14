@@ -9,8 +9,3 @@
 
 4 - abram uma nova linha de comando para abrir o JSON Server. IMPORTANTE - terão que fazer o comando "cd (nome da pasta)" até chegarem á ultima "travel_journal". De seguida, "cd src" e o comando "npx json-server --watch ./data/db.json --port 8000" . Certifiquem-se que o fetch está a ser feito á porta 8000, senão vai-vos dar um erro.
 
-
-5 - Se precisarem de ajuda, avisem.
-
-
-Happy Coding ;)
